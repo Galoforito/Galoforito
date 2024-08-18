@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I don't know much about coding, and I want to use Jetbrain's stuff.
 <!--
 **Galoforito/Galoforito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
